@@ -1,0 +1,6 @@
+﻿  CODECHEF.cpp
+D:\Visual Studio Repositories\CODECHEF\ChefLoves1010.h(15,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+D:\Visual Studio Repositories\CODECHEF\ChefLoves1010.h(15,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+D:\Visual Studio Repositories\CODECHEF\ChefLoves1010.h(15,11): message : the missing variadic argument 2 is required by format string '%s'
+D:\Visual Studio Repositories\CODECHEF\ChefLoves1010.h(15,11): message : this argument is used as a buffer size
+  CODECHEF.vcxproj -> D:\Visual Studio Repositories\CODECHEF\x64\Debug\CODECHEF.exe
